@@ -1,0 +1,11 @@
+
+^squid:S1444";Make this "public static CACHE_EXP_TEN_SECONDS" field final(Êöúøûÿÿÿÿ8˜‡ÿÆÇ.
+xsquid:S3008"\Rename this field "CACHE_EXP_FOREVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÇöıÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+rsquid:S3008	"[Rename this field "CACHE_EXP_MINUTE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã´â
+ƒsquid:S3008"`Rename this field "CACHE_EXP_TEN_SECONDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êöúøûÿÿÿÿ8˜‡ÿÆÇ.
+"squid:ClassVariableVisibilityCheck"]Make CACHE_EXP_FOREVER a static final constant or non-public and provide accessors if needed.(ıÇöıÿÿÿÿ
+›"squid:ClassVariableVisibilityCheck"aMake CACHE_EXP_TEN_SECONDS a static final constant or non-public and provide accessors if needed.(Êöúøûÿÿÿÿ8˜‡ÿÆÇ.
+Ssquid:S1444"7Make this "public static CACHE_EXP_FOREVER" field final(ıÇöıÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck	"\Make CACHE_EXP_MINUTE a static final constant or non-public and provide accessors if needed.(Ã´â
+Msquid:S1444	"6Make this "public static CACHE_EXP_MINUTE" field final(Ã´â
